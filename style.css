@@ -1,0 +1,32 @@
+.Imgcontainer{
+  background-image: url("background.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+h1{
+  color: white;
+  font-family: 'Unlock', cursive;
+  display: flex;
+  justify-content: center;
+  top: 220px;
+  left: 340px;
+  position: absolute;
+}
+
+#mc-embedded-subscribe{
+  color: white;
+  background-color: purple;
+  border-color: purple; 
+  display: flex;
+  top: 290px;
+  left: 580px;
+  position: absolute;
+}
